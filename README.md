@@ -1,5 +1,6 @@
 # Bitamin_Recommendation_System
 https://github.com/hexiangnan/neural_collaborative_filtering
+- Recommendation System Presentation.pdf
 - GMF.py
 - MLP.py
 - NeuMF.py
