@@ -1,5 +1,8 @@
 # Bitamin_Recommendation_System
 https://github.com/hexiangnan/neural_collaborative_filtering
+
+Modelling NCF Recommendation System with review data collected by web crawling from Musinsa
+
 - Recommendation System Presentation.pdf
 - GMF.py
 - MLP.py
@@ -10,7 +13,7 @@ https://github.com/hexiangnan/neural_collaborative_filtering
 - NCF Modelling.ipynb
 - Data
   * musinsa.testNegative.pkl
-  *  musinsa.testRatings.pkl
+  * musinsa.testRatings.pkl
   * musinsa.trainMatrix.pkl
 - Pretrain
   * musinsa_GMF_8_1658323584.h5
