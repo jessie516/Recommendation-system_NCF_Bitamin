@@ -1,4 +1,4 @@
-# Bitamin_Recommendation_System
+# Recommendation-system_NCF_Bitamin
 https://github.com/hexiangnan/neural_collaborative_filtering
 
 Modelling NCF Recommendation System with review data collected by web crawling from Musinsa
