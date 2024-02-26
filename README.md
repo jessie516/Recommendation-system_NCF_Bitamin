@@ -4,6 +4,7 @@ https://github.com/hexiangnan/neural_collaborative_filtering
 Modelling NCF Recommendation System with review data collected by web crawling from Musinsa
 
 - Recommendation system_Bitamin presentation.pdf
+- review_clothes.zip
 - GMF.py
 - MLP.py
 - NeuMF.py
