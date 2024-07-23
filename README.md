@@ -1,7 +1,7 @@
 # Recommendation-system_NCF_Bitamin
 https://github.com/hexiangnan/neural_collaborative_filtering
 
-Modelling NCF Recommendation System with review data collected by web crawling from Musinsa
+무신사 리뷰 기반 옷 추천 시스템
 
 - Recommendation system_Bitamin presentation.pdf
 - review_clothes.zip
